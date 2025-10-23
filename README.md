@@ -25,7 +25,7 @@ Using pip:
 
 <code class="language-sh">pip install -r requirements.txt</code>
 
-Usage
+# Usage
 
 Run the project with:
 
