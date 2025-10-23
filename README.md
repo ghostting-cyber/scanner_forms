@@ -2,7 +2,7 @@
 
 Transform Data Collection, Accelerate Insights Instantly
 
-Built with the tools and technologies:
+Built with:
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=flat&amp;logo=Python&amp;logoColor=white" class="inline-block mx-1" style="margin: 0px 2px;">
 
 # Overview
